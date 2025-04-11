@@ -10,12 +10,12 @@ The dashboard is built using an HR dataset containing details such as:
 Employee ID,
 Name,
 Age,
-Gender
-Department
-Job Role
-Education
-Experience
-Salary
-Hiring Date
-Attrition Status
-Performance Rating
+Gender,
+Department,
+Job Role,
+Education,
+Experience,
+Salary,
+Hiring Date,
+Attrition Status,
+Performance Rating.
