@@ -7,9 +7,9 @@ This Power BI Dashboard is designed to provide a comprehensive view of Human Res
 # Dataset Used
 The dashboard is built using an HR dataset containing details such as:
 
-Employee ID
-Name
-Age
+Employee ID,
+Name,
+Age,
 Gender
 Department
 Job Role
